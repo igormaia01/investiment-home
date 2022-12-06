@@ -56,3 +56,5 @@ web-build/
 dist/
 
 node_modules
+ios
+Android
